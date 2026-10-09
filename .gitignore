@@ -149,6 +149,8 @@ activemq-data/
 
 # Environments
 .env
+prod.env
+/workspaces/ice-cream-dataops/prod.env
 .envrc
 .venv
 env/
